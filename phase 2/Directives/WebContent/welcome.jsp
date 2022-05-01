@@ -1,0 +1,25 @@
+<%@ page language="java"  contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Welcome file</h1>
+<%
+
+		/* RequestDispatcher rd = 	request.getRequestDispatcher("hello.jsp");
+
+	rd.include(request, response);
+
+*/
+%>
+<%@ include file = "hello.jsp"    %>
+
+
+
+
+</body>
+</html>

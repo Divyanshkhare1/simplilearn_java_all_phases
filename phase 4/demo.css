@@ -1,0 +1,21 @@
+table{
+
+border-style: dashed;
+color: aliceblue;
+background-color: rgb(121, 252, 81);
+}
+
+
+#bid{
+    color: red;
+    background-color: yellowgreen;
+
+
+}
+
+
+.btn{
+    color: rgb(255, 96, 149);
+    background-color: rgb(41, 231, 248);
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.simpli.app.HomServlet&apos; to &apos;HomeServlet&apos;&#x0D;&#x0A;- Original project: &apos;FilterWithAnno&apos;&#x0D;&#x0A;- Original element: &apos;com.simpli.app.HomServlet&apos;&#x0D;&#x0A;- Renamed element: &apos;com.simpli.app.HomeServlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HomServlet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.simpli.app{HomServlet.java[HomServlet" matchStrategy="1" name="HomeServlet" qualified="false" references="true" similarDeclarations="false" stamp="1646765990608" textual="false" version="1.0"/>
+</session>
